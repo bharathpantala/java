@@ -1,5 +1,3 @@
-package java1;
-
 public class bharath {
 
 	public static void main(String[] args) {
